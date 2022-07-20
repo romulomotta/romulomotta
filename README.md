@@ -1,12 +1,9 @@
 <b>Name:</b> Romulo Motta  
 <b>Occupation:</b> Java Developer  
-<b>Education:</b> Former System Analyst and MBA in Full Stack Development
+<b>Education:</b> Former System Analyst and MBA in Full Stack Development  
 
-Working in a personal project to help:  
-- me practice 
-- and my wife in her customer pain  
+Working in a personal project to help me practice and give a solution to my wife's problem:  
+- She needs a web application that could help her organize her pacients  
 
-(She needs a web application that could help her organize her pacients)
-
-Still in progress, but you can follow here: http://psiformulario.herokuapp.com/psi/  
-As soon as I develop in here, I will add the repositories.
+Still in progress, but you can check here: http://psiformulario.herokuapp.com/psi/  
+Baby steps. Lol. As the project envolves, I will post here
