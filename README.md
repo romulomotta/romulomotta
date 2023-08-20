@@ -1,6 +1,6 @@
 <b>Nome:</b> Romulo Motta  
-<b>Ocupação:</b> Desenvolvedor Java
-<b>Educação:</b> Análise e Desenvolvimento de Sistema com MBA em Desenvolvimento Full Stack
+<b>Ocupação:</b> Desenvolvedor Java  
+<b>Educação:</b> Análise e Desenvolvimento de Sistema com MBA em Desenvolvimento Full Stack  
 
 # Repositorios #
 Os repositórios estão divididos por seções:
