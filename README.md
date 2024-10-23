@@ -1,11 +1,14 @@
-<b>Nome:</b> Romulo Motta  
-<b>Ocupação:</b> Desenvolvedor Java  
+## Romulo Motta  
+<b>Ocupação:</b> Desenvolvedor  
 <b>Educação:</b> Análise e Desenvolvimento de Sistema com MBA em Desenvolvimento Full Stack  
 
-# Repositorios #
-Os repositórios estão divididos por seções:
-* solucoes - Projetos que precisei criar para resolver/melhorar alguma situação no trabalho.
+### Repositórios
+Os repositórios possuem prefixos:
+* solucoes - Algo que precisei criar para resolver/melhorar algum problema na prática.
 * aulas - Projetos que fiz seguindo cursos, para estudo ou com fim acadêmico.
-* proj - Projetos que estou desenvolvimento para mim, com intuito de publicar em algum momento.
-* desafio - Projetos que fiz para seletivas de empregos.
+* proj - Projetos que comecei a desenvolver para mim, com intuito de publicar em algum momento.
+* desafio - Desafios de seletivas de empregos.
 
+### Links
+[Planilha Financeira](https://planilha-financeira.netlify.app/)
+- Criação web baseada na Planilha de Investimentos do Investidor Sardinha
