@@ -1,6 +1,6 @@
 ## Romulo Motta  
-<b>Ocupação:</b> Desenvolvedor  
-<b>Educação:</b> Análise e Desenvolvimento de Sistema com MBA em Desenvolvimento Full Stack  
+<b>Ocupação:</b> Desenvolvedor Backend  
+<b>Educação:</b> Análise e Desenvolvimento de Sistema, MBA em Desenvolvimento Full Stack  
 
 ### Repositórios
 Os repositórios possuem prefixos:
@@ -9,6 +9,11 @@ Os repositórios possuem prefixos:
 * proj - Projetos que comecei a desenvolver para mim, com intuito de publicar em algum momento.
 * desafio - Desafios de seletivas de empregos.
 
+Deixo alguns projetos salvos, para me lembrar de soluções ou implementações no futuro.
+
 ### Links
-[Planilha Financeira](https://planilha-financeira.netlify.app/)
-- Criação web baseada na Planilha de Investimentos do Investidor Sardinha
+[Planilha Financeira (em andamento)](https://planilha-financeira.netlify.app/)  
+Criação web baseada na Planilha de Investimentos do Investidor Sardinha.
+  
+[Landing page - Psicóloga Ana Mendonça](https://anamendoncapsi.netlify.app/)  
+Página profissional criada para a psicóloga.
