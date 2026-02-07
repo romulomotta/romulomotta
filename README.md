@@ -2,15 +2,18 @@
 <b>Ocupação:</b> Desenvolvedor Backend  
 <b>Educação:</b> Análise e Desenvolvimento de Sistema, MBA em Desenvolvimento Full Stack  
 
+
 ### Repositórios
 Os repositórios possuem prefixos:
 * solucoes - Algo que precisei criar para resolver/melhorar algum problema na prática.
 * proj - Projetos que comecei a desenvolver para mim, com intuito de publicar em algum momento.
 * desafio - Desafios de seletivas de empregos.
 
-Deixo alguns projetos salvos, para me lembrar de soluções ou implementações no futuro.
 
 ### Links
+
+[Linkedin](https://www.linkedin.com/in/romulomotta/)  
+
 [Planilha Financeira (em andamento)](https://planilha-financeira.netlify.app/)  
 Criação web baseada na Planilha de Investimentos do Investidor Sardinha.
   
