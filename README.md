@@ -1,7 +1,6 @@
-# Olá, eu sou o Romulo Motta 👋
+# Romulo Motta
 
-**Desenvolvedor Mobile & Backend.** Gosto de levar uma ideia do rascunho até a loja,
-cuidando do código, dos testes e do produto.
+**Desenvolvedor Mobile & Backend.**
 
 **Formação:** Análise e Desenvolvimento de Sistemas · MBA em Desenvolvimento Full Stack
 
@@ -14,17 +13,13 @@ cuidando do código, dos testes e do produto.
 
 ## Alguns projetos
 
-> O código desses projetos é privado. Aqui vai uma amostra do que eles fazem.
-
 ### 🧮 JA Studio 3D (iOS)
 
 Calculadora de custo e preço de venda de peças impressas em 3D: filamento e perda,
 energia, depreciação da máquina, margem de lucro e taxa do marketplace.
 Funciona sem internet e não pede cadastro.
 
-- **Swift + UIKit** com Coordinators, layout em código, tema claro e escuro, Dynamic Type e VoiceOver
-- Conteúdo da aba Sobre atualizado pelo GitHub Pages, sem precisar publicar o app de novo
-- Mais de 200 testes automatizados; já está no TestFlight
+- **Swift + UIKit**
 - 🌐 [Página do app](https://romulomotta.github.io/jastudioinfo/)
 
 <p align="center">
@@ -39,10 +34,7 @@ Jogo de estratégia por turnos inspirado na Batalha Naval: três reinos, classes
 padrões de ataque diferentes, terrenos que ferem quem ataca e a intervenção do Rei,
 uma vez por partida. Dá para jogar com duas pessoas no mesmo celular ou contra o Bot.
 
-- **Flutter + Riverpod**, iOS e Android, em português e inglês
-- Motor do jogo em Dart puro, separado da interface, pensado para um dia rodar no servidor (multiplayer)
-- Design próprio: paleta, botões de pedra e textos com contraste conferido (WCAG)
-
+- **Flutter + Riverpod**
 <p align="center">
   <img src="img/gridncrown-inicio.png" width="230" alt="Grid n Crown: tela inicial">
   &nbsp;&nbsp;
